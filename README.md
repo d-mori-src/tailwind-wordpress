@@ -1,13 +1,13 @@
-# プロジェクトをダウンロードする
+### プロジェクトをダウンロードする
 「Code」 → 「Download.zip」
 
 <br>
 
-# テーマファイルご自身のWordPressのthemeフォルダに入れテーマファイルごとエディターで開く
+### テーマファイルご自身のWordPressのthemeフォルダに入れテーマファイルごとエディターで開く
 
 <br>
 
-# tailwind cssが機能するか検証
+### tailwind cssが機能するか検証
 ```php
 <p class="text-2xl text-red-500">tailwind css test</p>
 <p class="text-4xl">tailwind css test</p>
@@ -21,14 +21,14 @@ tailwind cssはすでに読み込まれているので
 
 <br>
 
-# 必要なモジュールをインストールする
+### 必要なモジュールをインストールする
 - ターミナル開いて以下コマンドを入力する
 ```
 npm i
 ```
 <br>
 
-# tailwind cssのビルドコマンド
+### tailwind cssのビルドコマンド
 ```
 npm run tailwindcss-build
 ```
